@@ -1,0 +1,1 @@
+Fixes Obfuscated text not having a consistent length in 26.2
